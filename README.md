@@ -4,9 +4,8 @@ A 2D shooting game built with C and igraphics library
 
 ## Description
 
-A classic space 2D shooting game using C and igraphics library. The game is divided into 3 stages.
-As the player pass through the stages the gameplay become harder and need to tackle new type enemies.
-It was fun for me developing the game since it was my first game i ever developed.
+A classic space 2D shooting game using C and igraphics library. The game is divided into 3 stages. A player got 3 lives for a game. if he/she loses all the lives
+the game is restarted.As the player pass through the stages the gameplay become harder and need to tackle new type enemies.It was fun for me developing the game since it was my first game i ever developed.
 
 ## Things I learned
 
